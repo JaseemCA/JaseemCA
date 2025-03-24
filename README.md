@@ -15,10 +15,10 @@ I specialize in Flutter app development, crafting high-performance, cross-platfo
 
 📩 Let’s Connect:
 📧 Email: jaseempeter7@gmail.com
-💼 LinkedIn: linkedin.com/in/jaseem-ca-741007287
+💼 LinkedIn:[ linkedin.com/in/jaseem-ca-741007287](https://www.linkedin.com/in/jaseem-ca-741007287/)
 💬 WhatsApp: wa.me/qr/4WB6O57QNFLYH1
 
-Looking forward to collaborating on exciting Flutter projects! 🚀
+
 
 
 
