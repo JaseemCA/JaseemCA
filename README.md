@@ -7,8 +7,6 @@ I specialize in Flutter app development, crafting high-performance, cross-platfo
 
 📱 Flutter App Development – Building robust, scalable mobile applications
 
-⚡ State Management Expertise – Proficient in BLoC, Provider, and GetX
-
 🌍 REST API Integration – Ensuring smooth backend communication
 
 🎨 UI/UX Optimization – Delivering intuitive and visually impressive apps
